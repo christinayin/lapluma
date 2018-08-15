@@ -10,19 +10,6 @@ body {
     background-position: center;
     background-size: cover;
 }
-
-div {
-    width: 70px;
-    height: 300px;
-    border: 1px solid #c3c3c3;
-    display: -webkit-flex;
-    display: flex;
-    -webkit-flex-wrap: wrap;
-    flex-wrap: wrap;
-    -webkit-align-content: center;
-    align-content: center;
-}
-
 h1,
 h2,
 h3,
